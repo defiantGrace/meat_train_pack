@@ -5,6 +5,142 @@ file = "README.md"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
+file = "config/sgjourney-common.toml"
+hash = "a2d94a68a599d27d69e050725669de15a2a50fb62d6c80ef4f32ebe9e2d48448"
+
+[[files]]
+file = "config/structurify.json"
+hash = "758a6ffa373e619c456f2b79b9a214417d74f12718b879d668f45c6a786f17f5"
+
+[[files]]
+file = "kubejs/README.txt"
+hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
+
+[[files]]
+file = "kubejs/assets/create/lang/en_us.json"
+hash = "1cb1a249a8ec46621d9b1d8f43580ed5ab45eaae71de4d92ee245a36b7c91bdb"
+
+[[files]]
+file = "kubejs/assets/create/textures/item/andesite_alloy.png"
+hash = "792fe2292264e6350db5bd9e274681ebf3a6f08653171467547c8ce9a50af447"
+
+[[files]]
+file = "kubejs/assets/create/textures/item/electron_tube.png"
+hash = "9e48e3b87fe2ee9ec64a6be99aa8aa65de6ffa7b9fa19a13f1a12e2b21bc7e0a"
+
+[[files]]
+file = "kubejs/assets/ponderjs_generated/lang/en_us.json"
+hash = "ed1e7d9a54208ea282197971a6f8fd87b60b0dee38a966c429b54690d35f7583"
+
+[[files]]
+file = "kubejs/client_scripts/example.js"
+hash = "152019ed6e0410a82805a95ea10f1ad1a17beaf2b50864d89b8fa9d172129ac7"
+
+[[files]]
+file = "kubejs/config/client.properties"
+hash = "8530e5fd4d10278d5b8cea8046922a01a07c2f3394b50dfc1bc7fec738b393a3"
+
+[[files]]
+file = "kubejs/config/common.properties"
+hash = "b691056f2f0fcd504c501cbcde2a450e795871b36f9910bf980d84c5d4da50be"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/configured_feature/ore.json"
+hash = "d2f9b2c263d1fefa26c4e38c1e233749a796f82cfe704867573154c84f8bc911"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/configured_feature/ore_ancient_debris_large.json"
+hash = "d2f9b2c263d1fefa26c4e38c1e233749a796f82cfe704867573154c84f8bc911"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/configured_feature/ore_ancient_debris_small.json"
+hash = "d2f9b2c263d1fefa26c4e38c1e233749a796f82cfe704867573154c84f8bc911"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/configured_feature/ore_copper_large.json"
+hash = "d2f9b2c263d1fefa26c4e38c1e233749a796f82cfe704867573154c84f8bc911"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/configured_feature/ore_copper_small.json"
+hash = "d2f9b2c263d1fefa26c4e38c1e233749a796f82cfe704867573154c84f8bc911"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/configured_feature/ore_diamond_buried.json"
+hash = "d2f9b2c263d1fefa26c4e38c1e233749a796f82cfe704867573154c84f8bc911"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/configured_feature/ore_diamond_large.json"
+hash = "d2f9b2c263d1fefa26c4e38c1e233749a796f82cfe704867573154c84f8bc911"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/configured_feature/ore_diamond_small.json"
+hash = "d2f9b2c263d1fefa26c4e38c1e233749a796f82cfe704867573154c84f8bc911"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/configured_feature/ore_emerald.json"
+hash = "d2f9b2c263d1fefa26c4e38c1e233749a796f82cfe704867573154c84f8bc911"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/configured_feature/ore_gold.json"
+hash = "d2f9b2c263d1fefa26c4e38c1e233749a796f82cfe704867573154c84f8bc911"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/configured_feature/ore_gold_buried.json"
+hash = "d2f9b2c263d1fefa26c4e38c1e233749a796f82cfe704867573154c84f8bc911"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/configured_feature/ore_iron.json"
+hash = "d2f9b2c263d1fefa26c4e38c1e233749a796f82cfe704867573154c84f8bc911"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/configured_feature/ore_iron_small.json"
+hash = "d2f9b2c263d1fefa26c4e38c1e233749a796f82cfe704867573154c84f8bc911"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/configured_feature/ore_lapis.json"
+hash = "d2f9b2c263d1fefa26c4e38c1e233749a796f82cfe704867573154c84f8bc911"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/configured_feature/ore_lapis_buried.json"
+hash = "d2f9b2c263d1fefa26c4e38c1e233749a796f82cfe704867573154c84f8bc911"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/configured_feature/ore_redstone.json"
+hash = "d2f9b2c263d1fefa26c4e38c1e233749a796f82cfe704867573154c84f8bc911"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/configured_feature/scattered_ore.json"
+hash = "d2f9b2c263d1fefa26c4e38c1e233749a796f82cfe704867573154c84f8bc911"
+
+[[files]]
+file = "kubejs/server_scripts/create_unfuckify.js"
+hash = "28950331ed31f2f419a6e313216dc9b54319afafe152360d793c61521fd74b66"
+
+[[files]]
+file = "kubejs/server_scripts/custom_portal_tag.js"
+hash = "7a3acbc429849b1e84904e4e0e6c5190da73077b726545b0853338d4d4de36c9"
+
+[[files]]
+file = "kubejs/server_scripts/immersiveengineering.js"
+hash = "83ef0dc8f8a8a2cea2e4a313f8fd78d7eb7f072aed5d4099a9cc743215d9196d"
+
+[[files]]
+file = "kubejs/server_scripts/neep_additions.js"
+hash = "4963cb58c59176329320de8f0bd022428aba4fc2f9f09e2ba2db3d77f0d54d61"
+
+[[files]]
+file = "kubejs/server_scripts/notes.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/server_scripts/starting_items.js"
+hash = "a3b4a4f467d8c4ceafa8bac8331272eebfe23f1492e51db9fee32f8be11da4bc"
+
+[[files]]
+file = "kubejs/startup_scripts/example.js"
+hash = "395c96d3ddd178821db851f387e91560e606ea752177f66d2016f12bd0542b8f"
+
+[[files]]
 file = "mods/abyssal-decor.pw.toml"
 hash = "424b7c3c727c6e4f9d225eb04d74e6fb25a1b440a11da38cff8fe86668fbdf38"
 metafile = true
