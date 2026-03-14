@@ -1,0 +1,13 @@
+name = "Create: Transmission!"
+filename = "createtransmission-1.1.0+forge-create6-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QFCkBuIh/versions/i1G7VoXP/createtransmission-1.1.0%2Bforge-create6-1.20.1.jar"
+hash-format = "sha512"
+hash = "ad23383d393c898514b42c89c328f43a5cfa4757720cc759706bad104fb5ab17ecec3fe1fbeb86c129394508e41dd01d3164de18f3d7dcfd3ae4bae29ec0e893"
+
+[update]
+[update.modrinth]
+mod-id = "QFCkBuIh"
+version = "i1G7VoXP"

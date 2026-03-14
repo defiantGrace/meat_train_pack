@@ -1,0 +1,13 @@
+name = "Spice of Life: Valheim Updated"
+filename = "sol_valheim-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2W6u5Fih/versions/PpvBKK6Z/sol_valheim-1.2.1.jar"
+hash-format = "sha512"
+hash = "34b777847fe8f81825b98b01a5b6a4558319e08fc5f1727eb17223c2f2b041b8f5e1e5c7b127f060234548641553d564da86f03ff6ef03249b90bda1b1d26c80"
+
+[update]
+[update.modrinth]
+mod-id = "2W6u5Fih"
+version = "PpvBKK6Z"

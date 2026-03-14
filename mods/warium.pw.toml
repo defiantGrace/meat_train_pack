@@ -1,0 +1,13 @@
+name = "Warium"
+filename = "Warium 1.2.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xgjvEen1/versions/4oIhAhRz/Warium%201.2.7.jar"
+hash-format = "sha512"
+hash = "b66feecd63e77697be9ca76c673de9e378c4bb24c32db310f62a4e0abf66a4a0ff8fb105775091b69f8891132ca29be7230857e285f870d1c89a7e655fd8e990"
+
+[update]
+[update.modrinth]
+mod-id = "xgjvEen1"
+version = "4oIhAhRz"

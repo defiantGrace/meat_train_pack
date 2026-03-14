@@ -1,0 +1,13 @@
+name = "Attributizer"
+filename = "attributizer-3.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yVoBEgR0/versions/6lSrQF7r/attributizer-3.1.jar"
+hash-format = "sha512"
+hash = "ba8f8c1677e447a15960c8752e36e204e5abeb48d7bf275d59bb4479d31475406e277a5c09ae27135854b9290d5bdf6b5f73c0f03815fd8ab198cd6f77375a17"
+
+[update]
+[update.modrinth]
+mod-id = "yVoBEgR0"
+version = "6lSrQF7r"

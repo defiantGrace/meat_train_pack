@@ -1,0 +1,13 @@
+name = "Undermod"
+filename = "Undermod-1.20.1-0.2.1r.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CJvgnO1k/versions/gQqfzfeh/Undermod-1.20.1-0.2.1r.jar"
+hash-format = "sha512"
+hash = "a272aba9e9667558e3451950a27fac120a26c95073bf46174f4388912cdfb084a5f0ee33cc68fd11e16ebbae47d67578272ad014b6a0f91ee93c31d2759c23ef"
+
+[update]
+[update.modrinth]
+mod-id = "CJvgnO1k"
+version = "gQqfzfeh"
