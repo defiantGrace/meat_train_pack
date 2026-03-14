@@ -1,0 +1,13 @@
+name = "Gray's Villager Overhaul"
+filename = "Gray's Villager Overhaul v1.0 1.19-1.21.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/D7HAcoId/versions/uVlmJ2Id/Gray%27s%20Villager%20Overhaul%20v1.0%201.19-1.21.zip"
+hash-format = "sha512"
+hash = "f57802969b5346f08fb83872525907928c4bb3cb330fe289c3161fefdab7b7bb910dfb3b94e04156b400e25c4068b7841a898b447c2639102e721db56e074400"
+
+[update]
+[update.modrinth]
+mod-id = "D7HAcoId"
+version = "uVlmJ2Id"

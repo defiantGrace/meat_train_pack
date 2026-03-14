@@ -1,0 +1,268 @@
+{
+  "config_version": "2.0.19",
+  "config_datetime": "2026-03-12_17-23-17",
+  "general": {
+    "disable_all_structures": false,
+    "prevent_structure_overlap": false,
+    "enable_global_spacing_and_separation_modifier": false,
+    "global_spacing_and_separation_modifier": 1.0
+  },
+  "structure_namespaces": [],
+  "structures": [
+    {
+      "name": "common_stargates:stargate/milky_way/pedestal/stargate_pedestal",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "strongholds",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "common_stargates:stargate/milky_way/pedestal/stargate_pedestal_badlands",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "strongholds",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "common_stargates:stargate/milky_way/pedestal/stargate_pedestal_basalt",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "strongholds",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "common_stargates:stargate/milky_way/pedestal/stargate_pedestal_deep_dark",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "strongholds",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "common_stargates:stargate/milky_way/pedestal/stargate_pedestal_deepslate",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "strongholds",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "common_stargates:stargate/milky_way/pedestal/stargate_pedestal_desert",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "strongholds",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "common_stargates:stargate/milky_way/pedestal/stargate_pedestal_jungle",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "strongholds",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "common_stargates:stargate/milky_way/pedestal/stargate_pedestal_mushroom",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "strongholds",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "common_stargates:stargate/milky_way/pedestal/stargate_pedestal_nether",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "strongholds",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "common_stargates:stargate/milky_way/pedestal/stargate_pedestal_snow",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "strongholds",
+      "terrain_adaptation": "beard_thin",
+      "override_global_biome_check": true,
+      "enable_biome_check": true,
+      "biome_check_mode": "BLACKLIST",
+      "biome_check_blacklisted_biomes": [
+        "#c:in_overworld"
+      ]
+    },
+    {
+      "name": "common_stargates:stargate/milky_way/pedestal/stargate_pedestal_soul_sand",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "strongholds",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "common_stargates:stargate/pegasus/pegasus_stargate_grass",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "strongholds",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "common_stargates:stargate/universe/pedestal/stargate_pedestal_end",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "strongholds",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "sgjourney:stargate/classic/pedestal/stargate_pedestal",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "strongholds",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "sgjourney:stargate/milky_way/buried/buried_stargate",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "strongholds",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "sgjourney:stargate/milky_way/buried/buried_stargate_badlands",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "strongholds",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "sgjourney:stargate/milky_way/buried/buried_stargate_desert",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "strongholds",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "sgjourney:stargate/milky_way/pedestal/stargate_pedestal",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "strongholds",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "sgjourney:stargate/milky_way/pedestal/stargate_pedestal_badlands",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "strongholds",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "sgjourney:stargate/milky_way/pedestal/stargate_pedestal_cavum_tenebrae",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "strongholds",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "sgjourney:stargate/milky_way/pedestal/stargate_pedestal_deep_dark",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "strongholds",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "sgjourney:stargate/milky_way/pedestal/stargate_pedestal_deepslate",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "strongholds",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "sgjourney:stargate/milky_way/pedestal/stargate_pedestal_desert",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "strongholds",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "sgjourney:stargate/milky_way/pedestal/stargate_pedestal_glacio",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "strongholds",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "sgjourney:stargate/milky_way/pedestal/stargate_pedestal_jungle",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "strongholds",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "sgjourney:stargate/milky_way/pedestal/stargate_pedestal_mushroom",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "strongholds",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "sgjourney:stargate/milky_way/pedestal/stargate_pedestal_rima",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "strongholds",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "sgjourney:stargate/milky_way/pedestal/stargate_pedestal_snow",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "strongholds",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "sgjourney:stargate/milky_way/pedestal/stargate_pedestal_unitas",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "strongholds",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "sgjourney:stargate/milky_way/terra_stargate",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "strongholds",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "sgjourney:stargate/pegasus/outpost/lantean_outpost_ocean",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "strongholds",
+      "terrain_adaptation": "none"
+    }
+  ],
+  "structure_sets": []
+}

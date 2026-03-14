@@ -1,12 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "buildpack.sh"
-hash = "1623d24e9b160b6d7ec48f627165909e8e5be4efd1e163fc0c3dbb5d61036288"
-
-[[files]]
-file = "modlist.csv"
-hash = "cac1a35a04f1abc9123e0442ee87079a71e3c0e434924b4a38daee271f0dce22"
+file = "README.md"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "mods/abyssal-decor.pw.toml"
@@ -506,4 +502,39 @@ metafile = true
 [[files]]
 file = "mods/zeta.pw.toml"
 hash = "b43f507cffbcc7178b184fa63b2d74fc6b2b8103c4d299ec5633ccf1f5abdafb"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-military-grade-steel-signal.pw.toml"
+hash = "1696fce3d3708980628608bf984fbe401b6bdcfd15af84919da3ed2642c91ee8"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-mod-team-fortress-2-wrench.pw.toml"
+hash = "911f60b391acf7194244bc013ebde005d7cb36fa27a77ab3b4164a26b2d6cb41"
+metafile = true
+
+[[files]]
+file = "resourcepacks/dark-atmosphere-and-dreadful-skies.pw.toml"
+hash = "50e3d62770a8e3743787ebfb3813cd3218a48bbc5c820227a3bd6a2f251ce7ec"
+metafile = true
+
+[[files]]
+file = "resourcepacks/grays-villager-overhaul.pw.toml"
+hash = "33704b9336c46687f73d5aa41eab6cd00eb5954bc3a11c68731cfabad3d6f075"
+metafile = true
+
+[[files]]
+file = "resourcepacks/half-life-splash-texts.pw.toml"
+hash = "a71ff663e0dbb89b2310a7777ac3e65f32bb308d5fb993f3e2598f1a16b77e72"
+metafile = true
+
+[[files]]
+file = "resourcepacks/half-mine.pw.toml"
+hash = "2f2839488232309091c1a2c73332480fbe3ce107fb807113e56a0028a938f9a5"
+metafile = true
+
+[[files]]
+file = "resourcepacks/sfx-for-grays-villager-overhaul.pw.toml"
+hash = "d01f287d07bc8e59217fdb296476f8a559f638cec1b5f57af84478ee8d66f4f5"
 metafile = true

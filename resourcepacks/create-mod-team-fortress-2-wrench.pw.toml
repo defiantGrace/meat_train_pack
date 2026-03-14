@@ -1,0 +1,13 @@
+name = "Create Mod - Team Fortress 2 Wrench"
+filename = "create-tf2wrench.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/T8cb1sQy/versions/11ken9Za/create-tf2wrench.zip"
+hash-format = "sha512"
+hash = "92cbff8c8cfc08a9e9c78449c0592138b5193ab3e29be16f6124952fd053d780f3f653c0a84a56e30bef2bd55901650f5cce726a66180f15915593c48b93ed07"
+
+[update]
+[update.modrinth]
+mod-id = "T8cb1sQy"
+version = "11ken9Za"

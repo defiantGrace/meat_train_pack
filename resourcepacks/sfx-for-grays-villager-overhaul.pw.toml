@@ -1,0 +1,13 @@
+name = "SFX for Gray's Villager Overhaul"
+filename = "SFXforGreysVillagers.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/sUAIS0GW/versions/8OY3iaGN/SFXforGreysVillagers.zip"
+hash-format = "sha512"
+hash = "c400b9b1de666609630bd34798bea0059680c20ea9c9f5f94866cd655df947a1e1f599e3dab07d89ebeb41db54db2fff77da24fa3a9e83a247c9829a7dd4d64f"
+
+[update]
+[update.modrinth]
+mod-id = "sUAIS0GW"
+version = "8OY3iaGN"

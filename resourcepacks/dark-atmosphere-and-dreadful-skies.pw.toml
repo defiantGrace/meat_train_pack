@@ -1,0 +1,13 @@
+name = "Dark Atmosphere and Dreadful Skies"
+filename = "DarkAtmosphere2.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d009e855c629f149cca4f3dfc244a50b4759a82f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7154815
+project-id = 1334136

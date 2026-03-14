@@ -1,0 +1,13 @@
+name = "Half-Life Splash Texts"
+filename = "Half-Life Splash Texts.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Jsdb01X9/versions/p0uIt4Wx/Half-Life%20Splash%20Texts.zip"
+hash-format = "sha512"
+hash = "31f85beffa6832e1c5f6e3c8f8a8923abf403df19effff499fe6930afd42c16d36ab057f6a509dde2301ccd3ed1aced0855eb8f64edf42dbdaf73f0168b2bead"
+
+[update]
+[update.modrinth]
+mod-id = "Jsdb01X9"
+version = "p0uIt4Wx"
