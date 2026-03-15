@@ -696,8 +696,13 @@ hash = "b43f507cffbcc7178b184fa63b2d74fc6b2b8103c4d299ec5633ccf1f5abdafb"
 metafile = true
 
 [[files]]
-file = "resourcepacks/create-military-grade-steel-signal.pw.toml"
+file = "resourcepacks/create-military-grade-steel-signal-extension.pw.toml"
 hash = "1696fce3d3708980628608bf984fbe401b6bdcfd15af84919da3ed2642c91ee8"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-military-grade-steel-signal.pw.toml"
+hash = "716383d9a3ed6603ebd7c9a95c336e16e2d09f35f679aec60255d5844efaa31d"
 metafile = true
 
 [[files]]
@@ -723,9 +728,4 @@ metafile = true
 [[files]]
 file = "resourcepacks/half-mine.pw.toml"
 hash = "2f2839488232309091c1a2c73332480fbe3ce107fb807113e56a0028a938f9a5"
-metafile = true
-
-[[files]]
-file = "resourcepacks/sfx-for-grays-villager-overhaul.pw.toml"
-hash = "d01f287d07bc8e59217fdb296476f8a559f638cec1b5f57af84478ee8d66f4f5"
 metafile = true
