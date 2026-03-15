@@ -432,7 +432,7 @@ metafile = true
 
 [[files]]
 file = "mods/hazard-diamond.pw.toml"
-hash = "2980efe63319ea87ae312a41f00a9a1be9d21abd1449e7a6c2356fac6a0536dc"
+hash = "435fde62e92bc035ab2e658fc8c37ccce45ea0499e60647dfde54eeeaa5be463"
 metafile = true
 
 [[files]]
