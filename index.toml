@@ -176,6 +176,11 @@ hash = "8f1f1632689fba841ecf841648f21d7fbf3641a473bcc15d589b2a7450fd177a"
 metafile = true
 
 [[files]]
+file = "mods/betterf3.pw.toml"
+hash = "28358fe53c22695b3bf1f93ac2225c46fe3525918b7b993ac36e68a7f0a16fe8"
+metafile = true
+
+[[files]]
 file = "mods/bio-delight.pw.toml"
 hash = "5b6b208acf5aeb3c4dde3510ddb70d45a9f3d1d7da9363d897133f5387cd12ea"
 metafile = true
@@ -228,6 +233,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "903352ffbd84d4b95fed905893f4715d9c3f88ec9fff6fb06f6e359e0b839dc3"
 metafile = true
 
 [[files]]
@@ -391,6 +401,11 @@ hash = "2e42b3a809ec9b027e23714e01c255fe5111a9d4cd58fad114dd0f2aa75c0d7e"
 metafile = true
 
 [[files]]
+file = "mods/iceberg.pw.toml"
+hash = "c1d1a0476c58e3c011de6f750f48eb4f48493a1b9cef7bd59c008e87e0c0984c"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "835bd8b05a05ce6c0981ddc37c49e4c476aa0414cc2a5321fd9f8994193b6feb"
 metafile = true
@@ -401,6 +416,16 @@ hash = "f0f53a142295b7d004100bea2cf0f60b06854b40eddc9abb8a447db4e57d4883"
 metafile = true
 
 [[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "e87e55d35c6a335f35329b1356c8c40589f6b955b4933614f03d6c8b747f1476"
+metafile = true
+
+[[files]]
+file = "mods/item-highlighter.pw.toml"
+hash = "1fd7d2d0d436f2b8e61475da148bdb0dac06bdddeb6d188629785e2a2a89320d"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "0fbcc8cf03336e6bed425e2115fc4ff1a3a05be5c655228b305e70380eb08b57"
 metafile = true
@@ -408,6 +433,11 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "b0441c2b5bb6ff680d97eac28d95847f0d4dbee34d1d42d897997b500acd44ca"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "70a4ecd9d0c04ad20aeb976c1ee28933ce48a0a1f43df42deafaeb2ad7235297"
 metafile = true
 
 [[files]]
@@ -428,6 +458,11 @@ metafile = true
 [[files]]
 file = "mods/lexiconfig.pw.toml"
 hash = "471f6366615d29246e35c3193359ea479925ad98eb2beb1d59f0647f9896df3d"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "5a98133891a72e041e37bc235e86d495e488387f1628fc1377e6b5169dfbb8bd"
 metafile = true
 
 [[files]]
@@ -478,6 +513,11 @@ metafile = true
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "0b71da608af749f52d127e6fc64aee915df87163b9d13f2b86cf7eaa80ab4c8f"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "679fa8f3b49b9ed3fbcb29d6ccdb99bce465faa01f9cec000464ac8d4fbe134f"
 metafile = true
 
 [[files]]
