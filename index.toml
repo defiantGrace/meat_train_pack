@@ -711,11 +711,6 @@ hash = "75a60e6b443b351b7a4a78ffce7c71e44b3e20ca10c374aea1de516c785d6e2d"
 metafile = true
 
 [[files]]
-file = "mods/sol-valheim-updated.pw.toml"
-hash = "136c43cde1e113160a6e11bc0608004cbdfb9b17d5b4fa56fcd97690dbc9c764"
-metafile = true
-
-[[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
 hash = "6f9b20d31b62d277b685774e9839c92f3acb3c04d62e2fef2c9855ab150d83e8"
 metafile = true
