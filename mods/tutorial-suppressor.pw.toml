@@ -1,0 +1,13 @@
+name = "Tutorial Suppressor"
+filename = "tutorialsuppressor-0.1.0+1.20.1-forge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/SSyS4Ayv/versions/bjWW2W4a/tutorialsuppressor-0.1.0%2B1.20.1-forge.jar"
+hash-format = "sha512"
+hash = "f35506df8197c246ff4732234cd7193dd6d8c19ee001ac6170b51959d8c508f37d73ad055c0a7551e9a1f01c6cb168bdba3e4df938cfeb40c79cc3d3a221620b"
+
+[update]
+[update.modrinth]
+mod-id = "SSyS4Ayv"
+version = "bjWW2W4a"
