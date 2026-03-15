@@ -306,7 +306,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "47fd33da68d0b13cdffd4124f5bc9cff64caa2878ce7e979ba8092400c2ae1eb"
+hash = "1e8b02f2bd920d929c77a2134fd38cdd0f8f67b570870188c7eaba295a13ca4e"
 metafile = true
 
 [[files]]
@@ -661,12 +661,12 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/dark-atmosphere-and-dreadful-skies.pw.toml"
-hash = "50e3d62770a8e3743787ebfb3813cd3218a48bbc5c820227a3bd6a2f251ce7ec"
+hash = "e41165c992858d9f2f6b362fd20666ede7a29539cebbd59eef13e1abd3212c81"
 metafile = true
 
 [[files]]
 file = "resourcepacks/grays-villager-overhaul.pw.toml"
-hash = "7b775b7acec4889618f81ecc80b2e9b9acffcbd70804665980c01e7ef2f9443b"
+hash = "33704b9336c46687f73d5aa41eab6cd00eb5954bc3a11c68731cfabad3d6f075"
 metafile = true
 
 [[files]]
