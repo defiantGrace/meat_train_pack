@@ -456,6 +456,11 @@ hash = "b6ed220c9069f60704dbfe19fd55c976ca56ada35bcb6918c4ad226cd842b99c"
 metafile = true
 
 [[files]]
+file = "mods/leaves-be-gone.pw.toml"
+hash = "9a5e498a9c596fb0bfbab74173aa854257466e8c538d15c1966ce268b3267575"
+metafile = true
+
+[[files]]
 file = "mods/lexiconfig.pw.toml"
 hash = "471f6366615d29246e35c3193359ea479925ad98eb2beb1d59f0647f9896df3d"
 metafile = true
@@ -568,6 +573,11 @@ metafile = true
 [[files]]
 file = "mods/power-grid.pw.toml"
 hash = "1397c28285c921b721dd08c87cd65ccb5752f214fefd8be480175de828858f05"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "4dd7038889da90e145f9d074bec64a61aaae12dc57c875aa7ad99b8b2e07979b"
 metafile = true
 
 [[files]]
