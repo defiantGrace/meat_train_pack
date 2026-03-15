@@ -5,6 +5,10 @@ file = "README.md"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
+file = "config/quark-common.toml"
+hash = "4acbda417b93dd96cfe3bd352491e205bbb60c507d1d007720504789303f7573"
+
+[[files]]
 file = "config/sgjourney-common.toml"
 hash = "a2d94a68a599d27d69e050725669de15a2a50fb62d6c80ef4f32ebe9e2d48448"
 
@@ -298,6 +302,11 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "9eefd607e0d54ec444e798ccdeede1a09a3939440bd1e11c11b84c07a5134be2"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "47fd33da68d0b13cdffd4124f5bc9cff64caa2878ce7e979ba8092400c2ae1eb"
 metafile = true
 
 [[files]]
@@ -657,7 +666,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/grays-villager-overhaul.pw.toml"
-hash = "33704b9336c46687f73d5aa41eab6cd00eb5954bc3a11c68731cfabad3d6f075"
+hash = "7b775b7acec4889618f81ecc80b2e9b9acffcbd70804665980c01e7ef2f9443b"
 metafile = true
 
 [[files]]
