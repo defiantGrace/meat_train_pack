@@ -241,11 +241,6 @@ hash = "4ed9d49d9b0dd26a577b1aafec4a84f21f467b81c0e4df97035f62efd0993e9b"
 metafile = true
 
 [[files]]
-file = "mods/cloak-and-dagger.pw.toml"
-hash = "0ecf5e8e4352e9c026bb1839c234436edc1e864d16d567ff735846bfbe40dc12"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
 metafile = true
