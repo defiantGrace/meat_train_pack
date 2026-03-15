@@ -206,6 +206,11 @@ hash = "f39ab089f1be3ba38508f718e77324d2fdb5f4e33060f276709ea60cd618eb17"
 metafile = true
 
 [[files]]
+file = "mods/c2mef.pw.toml"
+hash = "92f000167f0c5665fa6f4a351889a58db7235ed8ebdb086a21a28a7024d347ad"
+metafile = true
+
+[[files]]
 file = "mods/cave-dust.pw.toml"
 hash = "8cecef107bc478f399553ef1b20882dcf89ad3dc0aadfef6c4a554ed5b015b9d"
 metafile = true
@@ -578,11 +583,6 @@ metafile = true
 [[files]]
 file = "mods/mru.pw.toml"
 hash = "f5e19eff418ff12946e7cd4f10e16508ba7261c9cd9685e3d87016fa21c127d1"
-metafile = true
-
-[[files]]
-file = "mods/mystronics-undermod.pw.toml"
-hash = "25684d07989fe16346b1b0c80ef4c2f370434bc02b5803025119394188870a33"
 metafile = true
 
 [[files]]
