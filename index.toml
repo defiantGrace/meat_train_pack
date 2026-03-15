@@ -521,8 +521,9 @@ hash = "53f933b0e94a69f06db31f8252e1f18139ba0f9fe530f5fa1400c3102ddd785f"
 metafile = true
 
 [[files]]
-file = "mods/meatmilk.toml"
+file = "mods/meatmilk.pw.toml"
 hash = "6a704756561c9d859685e8552a8c0a5e64e3f5895c16460c2305e51eb30e9457"
+metafile = true
 
 [[files]]
 file = "mods/mekanism-generators.pw.toml"
