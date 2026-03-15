@@ -731,6 +731,11 @@ hash = "ee2d9154be68ef20293596a3f65810111fd35a802f1e8292e9ba8872de463a14"
 metafile = true
 
 [[files]]
+file = "mods/spice-of-life-valheim-edition.pw.toml"
+hash = "9f3cbbcefac8103e51c156076d80644e30c12011d9621ae1042b62be7a387f26"
+metafile = true
+
+[[files]]
 file = "mods/squake-fabric-updated.pw.toml"
 hash = "901032ecebba6d56f2cfd026b487794ec196b396c0444f6b289a21370551c8e2"
 metafile = true
