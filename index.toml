@@ -431,6 +431,11 @@ hash = "2e42b3a809ec9b027e23714e01c255fe5111a9d4cd58fad114dd0f2aa75c0d7e"
 metafile = true
 
 [[files]]
+file = "mods/hazard-diamond.pw.toml"
+hash = "2980efe63319ea87ae312a41f00a9a1be9d21abd1449e7a6c2356fac6a0536dc"
+metafile = true
+
+[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "c1d1a0476c58e3c011de6f750f48eb4f48493a1b9cef7bd59c008e87e0c0984c"
 metafile = true
@@ -516,6 +521,10 @@ hash = "53f933b0e94a69f06db31f8252e1f18139ba0f9fe530f5fa1400c3102ddd785f"
 metafile = true
 
 [[files]]
+file = "mods/meatmilk.toml"
+hash = "6a704756561c9d859685e8552a8c0a5e64e3f5895c16460c2305e51eb30e9457"
+
+[[files]]
 file = "mods/mekanism-generators.pw.toml"
 hash = "ff3c572cc8a57df72f4a9ee7aa06388bec703a7f9bf08068a62fe3221efe3e80"
 metafile = true
@@ -563,6 +572,11 @@ metafile = true
 [[files]]
 file = "mods/mystronics-undermod.pw.toml"
 hash = "25684d07989fe16346b1b0c80ef4c2f370434bc02b5803025119394188870a33"
+metafile = true
+
+[[files]]
+file = "mods/neepmeat.pw.toml"
+hash = "0780d0c7b11cbd7141101815f6f9e2b1d62555190b8622a889fb7be6c1dc3be1"
 metafile = true
 
 [[files]]

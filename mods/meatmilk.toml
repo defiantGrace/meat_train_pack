@@ -1,0 +1,11 @@
+name = "MeatMilk"
+filename = "meatmilk-2.2.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/unilock/MeatMilk/releases/download/2.2.0/meatmilk-2.2.0.jar"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "3170c775bed9eba392cf03fcc42321605afed11b2c60e818c7fdc4d8e63c9afe"

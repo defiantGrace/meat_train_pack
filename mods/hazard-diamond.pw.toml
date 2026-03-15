@@ -1,0 +1,13 @@
+name = "Hazard Diamond"
+filename = "hdiamond-2.2.0+1.20.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/L85Kwl96/versions/dH8aNKL0/hdiamond-2.2.0%2B1.20.4.jar"
+hash-format = "sha512"
+hash = "be526ca74b484324a9ef166c79512e9150970b904017b6af4fb33dd66dce79ab6f788f8da082b607281c7e6708e6fc289ea0a5683468a68e6dc815d1466b10e7"
+
+[update]
+[update.modrinth]
+mod-id = "L85Kwl96"
+version = "dH8aNKL0"
