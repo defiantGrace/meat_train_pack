@@ -426,6 +426,11 @@ hash = "b6ed220c9069f60704dbfe19fd55c976ca56ada35bcb6918c4ad226cd842b99c"
 metafile = true
 
 [[files]]
+file = "mods/lexiconfig.pw.toml"
+hash = "471f6366615d29246e35c3193359ea479925ad98eb2beb1d59f0647f9896df3d"
+metafile = true
+
+[[files]]
 file = "mods/littletiles.pw.toml"
 hash = "c66129d5a0cdb5fb962aa6c0ce4d72ecab1bc212d03acfaf86c5dcf749cbace6"
 metafile = true
@@ -573,6 +578,16 @@ metafile = true
 [[files]]
 file = "mods/sgjourney.pw.toml"
 hash = "0a259c98b9e68d002ef9454e6ca81801af285c18af5302f9cd9dbcb41c3b9512"
+metafile = true
+
+[[files]]
+file = "mods/simple-radio.pw.toml"
+hash = "60a3b1aa962b013468fbaf732b7b7e5e04734ed0e8f09e7eed84b2da3e01ab0a"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "2693e3b2afc35f5edac9bc961a3cb1ccfa60bf32c69f2ddcc4860e7fe8799096"
 metafile = true
 
 [[files]]
