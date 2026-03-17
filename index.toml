@@ -600,6 +600,11 @@ hash = "5a98133891a72e041e37bc235e86d495e488387f1628fc1377e6b5169dfbb8bd"
 metafile = true
 
 [[files]]
+file = "mods/lionfish-api.pw.toml"
+hash = "3e055c411c197b2103e338dc9fdcd37272df81aaf4246f801694f97feaf7d232"
+metafile = true
+
+[[files]]
 file = "mods/littletiles.pw.toml"
 hash = "c66129d5a0cdb5fb962aa6c0ce4d72ecab1bc212d03acfaf86c5dcf749cbace6"
 metafile = true
