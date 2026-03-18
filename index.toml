@@ -118,7 +118,7 @@ hash = "d2f9b2c263d1fefa26c4e38c1e233749a796f82cfe704867573154c84f8bc911"
 
 [[files]]
 file = "kubejs/data/neepmeat/recipes/enlightening/blood_bubble_sapling.json"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "e8785f72642ffdfba542762de0a6f3f81ce4dd53ca3398c5959c65807b7d6a9f"
 
 [[files]]
 file = "kubejs/server_scripts/create_unfuckify.js"
