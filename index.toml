@@ -117,8 +117,12 @@ file = "kubejs/data/minecraft/worldgen/configured_feature/scattered_ore.json"
 hash = "d2f9b2c263d1fefa26c4e38c1e233749a796f82cfe704867573154c84f8bc911"
 
 [[files]]
+file = "kubejs/data/neepmeat/recipes/enlightening/blood_bubble_sapling.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "kubejs/server_scripts/create_unfuckify.js"
-hash = "28950331ed31f2f419a6e313216dc9b54319afafe152360d793c61521fd74b66"
+hash = "a1495d489c1693b3f98398e703753cf37345dab685a25c5bac8e5c2e4e976f34"
 
 [[files]]
 file = "kubejs/server_scripts/custom_portal_tag.js"

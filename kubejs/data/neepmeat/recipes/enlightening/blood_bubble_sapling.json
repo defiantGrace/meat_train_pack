@@ -1,0 +1,13 @@
+
+{
+  "type": "neepmeat:enlightening",
+  "item_input": {
+    "resource": "minecraft:red_mushroom",
+    "amount": 1
+  },
+  "data": 1024,
+  "output": {
+    "resource": "neepmeat:blood_bubble_sapling",
+    "amount": 1
+  }
+}

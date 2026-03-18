@@ -29,7 +29,7 @@ ServerEvents.recipes(event => {
         type: "create:item_application",
         ingredients: [
             {
-                item: 'neepmeat:blood_bubble_wood'
+                item: 'minecraft:stripped_crimson_stem'
             },
             {
                 tag: "forge:ingots/brass"
