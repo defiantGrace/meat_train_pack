@@ -269,11 +269,6 @@ hash = "4ed9d49d9b0dd26a577b1aafec4a84f21f467b81c0e4df97035f62efd0993e9b"
 metafile = true
 
 [[files]]
-file = "mods/cloak-and-dagger.pw.toml"
-hash = "0ecf5e8e4352e9c026bb1839c234436edc1e864d16d567ff735846bfbe40dc12"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
 metafile = true
@@ -281,11 +276,6 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "903352ffbd84d4b95fed905893f4715d9c3f88ec9fff6fb06f6e359e0b839dc3"
-metafile = true
-
-[[files]]
-file = "mods/combat-circle.pw.toml"
-hash = "fcc453abbafaf2b1e3128a0d62e30a12afbf392650a020da700216c5c9523077"
 metafile = true
 
 [[files]]
@@ -449,11 +439,6 @@ hash = "8a2ebaa5e91514420178322fd4c3c200d095618269073a0d44a17f0287747adc"
 metafile = true
 
 [[files]]
-file = "mods/footwork.pw.toml"
-hash = "9f7d98b4ea47947be3e65a10d3a42c4ffeef604c4d4cf423d7477b86e90c9a3a"
-metafile = true
-
-[[files]]
 file = "mods/forgified-fabric-api.pw.toml"
 hash = "2a2f2168bf03bfa3034ad9583588676c5d66b6f7c767df9fe259ab55350792d2"
 metafile = true
@@ -461,6 +446,11 @@ metafile = true
 [[files]]
 file = "mods/framework.pw.toml"
 hash = "9e2175476f720e0b2d21b28e91873cecf5555648e2137310e1b7cf98f6b98ab8"
+metafile = true
+
+[[files]]
+file = "mods/ftb-chunks-forge.pw.toml"
+hash = "0e753f0aea9277eba730d4a55929f244f9d7c9d15cc5e9bd96b4669e531f6de2"
 metafile = true
 
 [[files]]
@@ -679,6 +669,11 @@ hash = "0780d0c7b11cbd7141101815f6f9e2b1d62555190b8622a889fb7be6c1dc3be1"
 metafile = true
 
 [[files]]
+file = "mods/new-soviet.pw.toml"
+hash = "a462973b0266e6dc0b30927a88969a53d4e04bdffa8d6b97af6e39b352e615ce"
+metafile = true
+
+[[files]]
 file = "mods/no-more-ruined-portals.pw.toml"
 hash = "422e59ce6ade49c606a0b7a3237d8b484a0175dcdb672ead68b67fa5cfb5aee6"
 metafile = true
@@ -741,6 +736,11 @@ metafile = true
 [[files]]
 file = "mods/railways-untold.pw.toml"
 hash = "8ccfaa0c5572285c405c6d735681c8323c8320dcd03c70ea4787cfac6ae3f21e"
+metafile = true
+
+[[files]]
+file = "mods/reconnectible-chains.pw.toml"
+hash = "5d9fdc6ebba9bea690cf9110b52b34bcb3560e1e3c80f81e72913d1696408a1c"
 metafile = true
 
 [[files]]

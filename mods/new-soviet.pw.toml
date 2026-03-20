@@ -1,0 +1,13 @@
+name = "New Soviet Era"
+filename = "new_soviet-0.4.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Oz6dgdHL/versions/yZVlLdw5/new_soviet-0.4.0.jar"
+hash-format = "sha512"
+hash = "2c94c9c956ca31001f5476b0285d7c4618f4d250c7e800e3eccbd92c770a9c67d0811d15537e551109f7a3832936bd63fc8aca11ab3d6d690d86a5dcde93d14c"
+
+[update]
+[update.modrinth]
+mod-id = "Oz6dgdHL"
+version = "yZVlLdw5"
